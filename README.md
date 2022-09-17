@@ -981,3 +981,5 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 <b>Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding (2019 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1902.09777.pdf) [[Code]](https://github.com/svip-lab/PlanarReconstruction) <p align="center"><img width="50%" src="https://github.com/svip-lab/PlanarReconstruction/blob/master/misc/pipeline.jpg" /></p>
 
 <b>3D-Aware Scene Manipulation via Inverse Graphics (NeurIPS 2018)</b> [[Paper]](http://3dsdn.csail.mit.edu/) [[Code]](https://github.com/svip-lab/PlanarReconstruction) <p align="center"><img width="50%" src="http://3dsdn.csail.mit.edu/images/teaser.png" /></p>
+
+<b> Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research </b> [[Paper]](https://arxiv.org/pdf/1911.05063.pdf) [[Code]](https://github.com/NVIDIAGameWorks/kaolin/)<p align="center"><img width="50%" src="https://developer.nvidia.com/sites/default/files/akamai/updated_WispPipeline.jpg"/></p>
